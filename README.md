@@ -8,6 +8,16 @@ Today I build useful, engaging apps and help businesses improve their online pre
 
 [Work with CreatiqueMedia](https://creatiquemedia.com) | [Watch our commercial](https://youtu.be/JZLttIkqSig) | [Contact](mailto:info@creatiquemedia.com)
 
+## Follow & Connect
+
+| | CreatiqueMedia LLC | The Awakened Hybrid |
+| --- | --- | --- |
+| Website | [creatiquemedia.com](https://creatiquemedia.com) | [theawakenedhybrid.com](https://theawakenedhybrid.com) |
+| YouTube | [@CreatiqueMedia](https://www.youtube.com/@CreatiqueMedia) | [@TheAwakenedHybrid_Official](https://www.youtube.com/@TheAwakenedHybrid_Official) |
+| Instagram | [@creatiquemediallc](https://www.instagram.com/creatiquemediallc/) | [@theawakenedhybrid_official](https://www.instagram.com/theawakenedhybrid_official/) |
+| Facebook | [CreatiqueMedia LLC](https://www.facebook.com/1305989632607773) | [The Awakened Hybrid](https://www.facebook.com/TheAwakenedHybridOfficial) |
+| Community | | [Patreon](https://www.patreon.com/c/TheAwakenedHybridOfficial) / [Discord](https://discord.gg/uKfaERw9H) |
+
 ## Client Websites
 
 | Project | Showcase | Focus |
