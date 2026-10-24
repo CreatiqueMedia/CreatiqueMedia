@@ -22,6 +22,24 @@ Today I build useful, engaging apps and help businesses improve their online pre
 | CreatiqueMedia LLC | [Visit website](https://creatiquemedia.com) | Apps, website templates, custom development, and digital media services. |
 | The Awakened Hybrid | [Visit website](https://theawakenedhybrid.com) | Independent publishing, articles, books, and community engagement. |
 
+## Website Templates
+
+Public showcase repositories for CreatiqueMedia's commercial website templates. Template source code is not included in these repositories.
+
+| Template | Category |
+| --- | --- |
+| [ForgeCraft Metalworks](https://github.com/CreatiqueMedia/cm-template-forgecraft-metalworks) | Metalworking |
+| [Lumen Jewelry Studio](https://github.com/CreatiqueMedia/cm-template-lumen-jewelry-studio) | Jewelry |
+| [Brushline Painting Studio](https://github.com/CreatiqueMedia/cm-template-brushline-painting-studio) | Painting |
+| [ClayCraft Pottery Studio](https://github.com/CreatiqueMedia/cm-template-claycraft-pottery-studio) | Pottery |
+| [HandyPro Home Services](https://github.com/CreatiqueMedia/cm-template-handypro-home-services) | Home services |
+| [Mobile Shine Car Wash](https://github.com/CreatiqueMedia/cm-template-mobile-shine-car-wash) | Car wash |
+| [Ironclad BJJ](https://github.com/CreatiqueMedia/cm-template-ironclad-bjj) | Brazilian jiu-jitsu |
+| [TerraNova Landscapes](https://github.com/CreatiqueMedia/cm-template-terranova-landscapes) | Landscaping |
+| [FurKids Kennel](https://github.com/CreatiqueMedia/cm-template-furkids-kennel) | Pet boarding |
+
+[Explore templates and request a custom build](https://creatiquemedia.com)
+
 ## Apps & Games
 
 | Project | Showcase | Focus |
