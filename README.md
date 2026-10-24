@@ -14,7 +14,7 @@ Today I build useful, engaging apps and help businesses improve their online pre
 | --- | --- | --- |
 | OceansAlaska | [Visit website](https://oceansalaska.org) | Marine science, shellfish hatchery, and community mariculture nonprofit website. |
 | Rainforest Construction | [Visit website](https://rainforestconstruction.us) | Construction business website highlighting custom homes and building for Southeast Alaska. |
-| Olesya's Photography | [Client domain](https://olesyasphotography.com) | Photography website project. Netlify domain setup and migration from SiteGround are pending client coordination. |
+| Olesya's Photography | [Live preview](https://olesyasphotography-site-main.netlify.app) | Photography portfolio website. Preview is live on Netlify while the client's domain migration is arranged. |
 
 ## Business & Publishing Platforms
 
@@ -25,19 +25,20 @@ Today I build useful, engaging apps and help businesses improve their online pre
 
 ## Website Templates
 
-Public showcase repositories for CreatiqueMedia's commercial website templates. Template source code is not included in these repositories.
+Live demos of CreatiqueMedia's commercial website templates, hosted on Netlify. Template source code is not included in the public repositories.
 
-| Template | Category |
-| --- | --- |
-| [ForgeCraft Metalworks](https://github.com/CreatiqueMedia/cm-template-forgecraft-metalworks) | Metalworking |
-| [Lumen Jewelry Studio](https://github.com/CreatiqueMedia/cm-template-lumen-jewelry-studio) | Jewelry |
-| [Brushline Painting Studio](https://github.com/CreatiqueMedia/cm-template-brushline-painting-studio) | Painting |
-| [ClayCraft Pottery Studio](https://github.com/CreatiqueMedia/cm-template-claycraft-pottery-studio) | Pottery |
-| [HandyPro Home Services](https://github.com/CreatiqueMedia/cm-template-handypro-home-services) | Home services |
-| [Mobile Shine Car Wash](https://github.com/CreatiqueMedia/cm-template-mobile-shine-car-wash) | Car wash |
-| [Ironclad BJJ](https://github.com/CreatiqueMedia/cm-template-ironclad-bjj) | Brazilian jiu-jitsu |
-| [TerraNova Landscapes](https://github.com/CreatiqueMedia/cm-template-terranova-landscapes) | Landscaping |
-| [FurKids Kennel](https://github.com/CreatiqueMedia/cm-template-furkids-kennel) | Pet boarding |
+| Template | Category | Live demo | Details |
+| --- | --- | --- | --- |
+| ForgeCraft Metalworks | Metalworking | [Demo](https://creatiquemedia.com/templates/forgecraft-metalworks/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-forgecraft-metalworks) |
+| Lumen Jewelry Studio | Jewelry | [Demo](https://creatiquemedia.com/templates/lumen-jewelry-studio/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-lumen-jewelry-studio) |
+| Brushline Painting Studio | Painting | [Demo](https://creatiquemedia.com/templates/brushline-painting-studio/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-brushline-painting-studio) |
+| ClayCraft Pottery Studio | Pottery | [Demo](https://creatiquemedia.com/templates/claycraft-pottery-studio/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-claycraft-pottery-studio) |
+| HandyPro Home Services | Home services | [Demo](https://creatiquemedia.com/templates/handypro-home-services/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-handypro-home-services) |
+| Mobile Shine Car Wash | Car wash | [Demo](https://creatiquemedia.com/templates/mobile-shine-car-wash/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-mobile-shine-car-wash) |
+| Ironclad BJJ | Brazilian jiu-jitsu | [Demo](https://creatiquemedia.com/templates/ironclad-bjj/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-ironclad-bjj) |
+| TerraNova Landscapes | Landscaping | [Demo](https://creatiquemedia.com/templates/terranova-landscapes/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-terranova-landscapes) |
+| FurKids Kennel | Pet boarding | [Demo](https://creatiquemedia.com/templates/furkids-kennel/demo) | [Repository](https://github.com/CreatiqueMedia/cm-template-furkids-kennel) |
+| NovaSaaS | AI SaaS landing page | [Demo](https://novasaas-main.netlify.app) | Source private |
 
 [Explore templates and request a custom build](https://creatiquemedia.com)
 
