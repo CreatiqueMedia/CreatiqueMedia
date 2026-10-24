@@ -14,6 +14,7 @@ Today I build useful, engaging apps and help businesses improve their online pre
 | --- | --- | --- |
 | OceansAlaska | [Visit website](https://oceansalaska.org) | Marine science, shellfish hatchery, and community mariculture nonprofit website. |
 | Rainforest Construction | [Visit website](https://rainforestconstruction.us) | Construction business website highlighting custom homes and building for Southeast Alaska. |
+| Olesya's Photography | [Client domain](https://olesyasphotography.com) | Photography website project. Netlify domain setup and migration from SiteGround are pending client coordination. |
 
 ## Business & Publishing Platforms
 
