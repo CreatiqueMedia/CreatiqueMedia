@@ -56,7 +56,7 @@ Live demos of CreatiqueMedia's commercial website templates, hosted on Netlify. 
 
 | Project | Showcase | Focus |
 | --- | --- | --- |
-| Cloud Chomp: Math & Spelling | [Project website](https://creatiquemedia.com/cloudchomp/) / [Commercial](https://youtu.be/iqMLDorEzdI) | A kids' math and spelling game with offline play, no ads, and no tracking. Coming soon to the App Store. |
+| Cloud Chomp: Math & Spelling | [Project website](https://creatiquemedia.com/cloudchomp/) / [Commercial](https://youtu.be/iqMLDorEzdI) | A kids' math and spelling game with offline play, no ads, and no tracking. [Now on the App Store](https://apps.apple.com/us/app/cloud-chomp-math-spelling/id6825911536). |
 | MuseIonTrivia | [Visit app](https://museiontrivia.com) | Interactive ancient-history trivia progressive web app built for our own brand. |
 
 ## Digital Media
