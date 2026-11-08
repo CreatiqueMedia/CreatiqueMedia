@@ -31,7 +31,7 @@ Today I build useful, engaging apps and help businesses improve their online pre
 | Project | Showcase | Focus |
 | --- | --- | --- |
 | CreatiqueMedia LLC | [Visit website](https://creatiquemedia.com) | Apps, website templates, custom development, and digital media services. |
-| The Awakened Hybrid | [Visit website](https://theawakenedhybrid.com) | Independent publishing, articles, books, and community engagement. |
+| The Awakened Hybrid | [Visit website](https://theawakenedhybrid.com) | Independent publishing, articles, books, and community engagement, including the seven-part research series [The Lantern and the Ledger](https://theawakenedhybrid.com/blog/the-lantern-and-the-ledger/). |
 
 ## Website Templates
 
@@ -56,13 +56,13 @@ Live demos of CreatiqueMedia's commercial website templates, hosted on Netlify. 
 
 | Project | Showcase | Focus |
 | --- | --- | --- |
-| Cloud Chomp: Math & Spelling | [Project website](https://creatiquemedia.github.io/cloudchomp-site/) / [Commercial](https://youtu.be/84XPyXhrcUw) | A kids' math and spelling game with offline play, no ads, and no tracking. Coming soon to the App Store. |
+| Cloud Chomp: Math & Spelling | [Project website](https://creatiquemedia.github.io/cloudchomp-site/) / [Commercial](https://youtu.be/iqMLDorEzdI) | A kids' math and spelling game with offline play, no ads, and no tracking. Coming soon to the App Store. |
 | MuseIonTrivia | [Visit app](https://museiontrivia.com) | Interactive ancient-history trivia progressive web app built for our own brand. |
 
 ## Digital Media
 
 - [CreatiqueMedia brand commercial](https://youtu.be/JZLttIkqSig): in-house motion graphics, narration, and original music.
-- [Cloud Chomp commercial](https://youtu.be/84XPyXhrcUw): product demonstration and launch creative.
+- [Cloud Chomp commercial](https://youtu.be/iqMLDorEzdI): product demonstration and launch creative.
 
 ## About This Portfolio
 
